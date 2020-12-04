@@ -4,4 +4,3 @@
 
 - Strogonoff de Frango
 - Porqueta de Porco
-
